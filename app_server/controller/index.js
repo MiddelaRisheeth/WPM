@@ -1,5 +1,5 @@
 const indexPage = (req,res)=>{
-    res.render('index',{title:'PET NEEDS STORE'})
+    res.render('index',{title:'Resataurant Finder'})
 }
 
 module.exports = {indexPage}
